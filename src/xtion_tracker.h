@@ -1,8 +1,8 @@
 /**
  * \ref xtion_tracker.hpp
  *
- *  \date 24/giu/2015
- *  \author Alessio Levratti
+ *  \date 24/Sep/2016
+ *  \author reason_W
  *  \version 1.0
  *  \bug
  *  \copyright GNU Public License.
