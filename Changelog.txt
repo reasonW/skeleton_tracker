@@ -1,3 +1,5 @@
+Version xm1.0
+-Thanks for Chaos84
 Version 1.2
 -fixed some bugs on the depth image
 
