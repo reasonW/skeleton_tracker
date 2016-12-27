@@ -1,7 +1,7 @@
 xm_people
 ===============
 
-`xm_peopler` is a ROS Wrapper for the OpenNI2 and NiTE2 Skeleton Tracker, which you can use ros node of depth_image when using OpenNI. 
+`xm_people` is a ROS Wrapper for the OpenNI2 and NiTE2 Skeleton Tracker, which you can use ros node of depth_image when using OpenNI. 
 ### Pre-work
 - Install [ROS](http://www.ros.org/) in your Ubuntu
 - Install [OpenNI2 and NITE2](https://ariandy1.wordpress.com/2013/07/10/ros-openni2-nite2/)
