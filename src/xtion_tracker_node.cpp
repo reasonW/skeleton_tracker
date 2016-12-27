@@ -8,10 +8,10 @@
  *  \copyright GNU Public License.
  */
 
-#include "skeleton_tracker/xtion_tracker.hpp"
+#include "xtion_tracker.h"
 
 int main(int argc, char **argv) {
-  ros::init(argc, argv, "skeleton_tracker");
+  ros::init(argc, argv, "xm_people");
 
   xtion_tracker* skeleton_tracker = new xtion_tracker();
 
