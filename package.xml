@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package>
-  <name>skeleton_tracker</name>
+  <name>xm_people</name>
   <version>0.1.0</version>
-  <description>The skeleton_tracker package</description>
+  <description>The xm_people package</description>
 
-  <maintainer email="alessio.levratti@unimore.it">alessio</maintainer>
+  <maintainer email="charlewander@gmail.com">alessio</maintainer>
   <license>BSD</license>
   
-  <author email="alessio.levratti@unimore.it">Alessio Levratti</author>
+  <author email="charlewander@gmail.com">Alessio Levratti</author>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>cv_bridge</build_depend>
